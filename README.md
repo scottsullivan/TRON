@@ -5,6 +5,10 @@ Project to reproduce the light cycle game from Tron in the physical world!
 
 <a href="http://work.scottis.me/tron/">About project</a>
 
+## arTest01:
+Simple AR test (currently only working in Processing 1.5.1) check out the <a href="http://www.creativeapplications.net/processing/augmented-reality-with-processing-tutorial-processing/">CAN Tutorial</a>.
+<a href="http://imgur.com/zchQxN0"><img src="http://i.imgur.com/zchQxN0.png" title="Hosted by imgur.com" /></a>
+
 ## Tron02:
 Tron02 is the basic 2-D version of the lightcycle game with one cycle. It's basically Nokia 5110 Snake.
 <a href="http://imgur.com/fFhqtwT"><img src="http://i.imgur.com/fFhqtwT.png" title="Hosted by imgur.com" /></a>
