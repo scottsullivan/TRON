@@ -13,6 +13,15 @@ Tron02 is the basic 2-D version of the lightcycle game with one cycle. It's basi
 Tron03 is 3D (still one player, so 3D Snake)!
 <a href="http://imgur.com/4CteIeE"><img src="http://i.imgur.com/4CteIeE.png" title="Hosted by imgur.com" /></a>
 
+## sparkJoyStick
+Test to control a Processing sketch via the internet with the <a href="https://www.spark.io/">Spark Core</a>.
+<a href="http://imgur.com/zN4Qcoe"><img src="http://i.imgur.com/zN4Qcoe.png" title="Hosted by imgur.com" /></a>
+
+Spark core wiring:
+<a href="http://imgur.com/Ivdg9KT"><img src="http://i.imgur.com/Ivdg9KT.jpg" title="Hosted by imgur.com" /></a>
+The spark core code is *corecode.ino*
+
+
 
 <hr>
 ### To do:
